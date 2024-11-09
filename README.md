@@ -2,10 +2,8 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
-- [What You'll Learn](#what-youll-learn)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
-- [Watch the Video Tutorial](#watch-the-video-tutorial)
 
 ## Introduction
 This project serves to build an end-to-end data engineering pipeline using TCP/IP Socket, Apache Spark, Kafka, and Elasticsearch. It covers each stage, from data acquisition and processing, sentiment analysis with ChatGPT, to producing Kafka topics and connecting to Elasticsearch.
@@ -35,7 +33,7 @@ The project is designed with the following components:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/airscholar/E2EDataEngineering.git
+    git clone https://github.com/mohamedchouaib/Real-Time-Sentiment-Analysis.git
     ```
 
 3. **Run Docker Compose to spin up the Spark cluster**:
